@@ -1,7 +1,7 @@
 Task Description
 -----------------
 Data export from xml to redis. This application requires your local redis-server setup before you can use it.
-The application is looking for Redis IP '127.0.0.1'
+The application is looking for Redis host '127.0.0.1'
 
 Environment
 -------------
