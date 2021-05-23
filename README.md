@@ -1,6 +1,6 @@
 Task Description
 -----------------
-Data export from xml to redis
+Data export from xml to redis. This application requires your local redis-server setup before you can use it.
 
 Environment
 -------------
